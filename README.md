@@ -16,8 +16,7 @@ I am currently studying Mechanical Engineering at Vellore Institute of Technolog
 <a href="https://www.linkedin.com/in/chinthan-padam-chand-735759102/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
- 
- 
+<br>
 <a href="https://www.kaggle.com/chinthansurana">
 <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
 </a>
