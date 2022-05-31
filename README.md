@@ -1,5 +1,9 @@
 ### Hello there 👋
-🌱 I’m currently learning Machine Learning!
+
+Welcome to my Github page!
+
+- 🌱 I’m currently learning Machine Learning!
+- 📫 How to reach me: chinthan2001@gmail.com
 
 ## About me
 I am currently studying Mechanical Engineering at Vellore Institute of Technology (VIT), Chennai
