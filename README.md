@@ -1,5 +1,5 @@
 ### Hello there 👋
-🔭 I’m currently working on learning ML
+🌱 I’m currently learning Machine Learning!
 
 ## About me
 I am currently studying Mechanical Engineering at Vellore Institute of Technology (VIT), Chennai
@@ -20,6 +20,10 @@ I am currently studying Mechanical Engineering at Vellore Institute of Technolog
 <a href="https://www.kaggle.com/chinthansurana">
 <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
 </a>
+<a href="https://twitter.com/chinthan5">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</p>
 
 <!--
 **Chinthansurana/Chinthansurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
