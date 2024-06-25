@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Welcome to my Github page!
+Welcome to my GitHub page!
 
 - 🌱 I’m currently learning Machine Learning!
 - 📫 How to reach me: chinthan2001@gmail.com
@@ -32,7 +32,7 @@ I am currently studying Mechanical Engineering at Vellore Institute of Technolog
  
 #### Find me on
 <p align="left">
-<a href="https://www.linkedin.com/in/chinthan-padam-chand-735759102/">
+<a href="https://www.linkedin.com/in/chinthan-p/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
