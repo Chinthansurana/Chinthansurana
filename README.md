@@ -1,13 +1,17 @@
 ### Hello there 👋
 
-Welcome to my GitHub page!
+# Welcome to my GitHub page!
 
-- 🌱 I’m currently learning Machine Learning!
-- 📫 How to reach me: chinthan2001@gmail.com
+- 🌱 I’m currently a Machine Learning Engineer at Bungee Tech!
+- 💼 I started as an intern in March 2023 and transitioned into a full-time role in October 2023.
+- 🚀 Passionate about building scalable ETLs and APIs, particularly in the data engineering and machine learning fields.
+- 🧠 I specialize in creating data-driven solutions, including disaster management tools, auto-suggest systems, and building recommendation engines.
+- 🔍 Currently working on projects involving Trie data structures, deep learning, and advanced CPU scheduling algorithms.
+- 💬 Always open to collaborating on innovative projects and sharing knowledge within the tech community!
+- 📫 How to reach me: [chinthan2001@gmail.com](mailto:chinthan2001@gmail.com)
 
 ## About me
-I am currently studying Mechanical Engineering at Vellore Institute of Technology (VIT), Chennai
-
+I have completed my studies in Mechanical and Computer Science Engineering at Vellore Institute of Technology (VIT), Chennai. I am passionate about leveraging my skills in machine learning, data engineering, and automation to solve real-world problems and contribute to innovative projects.
 
 ### **Languages and Tools:**
 <p align="left"> 
